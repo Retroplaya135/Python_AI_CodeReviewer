@@ -58,3 +58,9 @@ A minimalistic Python static code analysis tool for clean and maintainable code.
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository, create a new branch, and submit a pull request.
+
+---
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use and distribute. The software is provided as is without an gaurenty or warrenty. 
