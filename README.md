@@ -51,3 +51,10 @@ A minimalistic Python static code analysis tool for clean and maintainable code.
 
 - Python 3.8+
 - Root privileges for certain features
+
+---
+
+
+## Contributing
+
+Contributions are welcome! Feel free to fork the repository, create a new branch, and submit a pull request.
