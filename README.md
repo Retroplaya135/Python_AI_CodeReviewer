@@ -43,3 +43,11 @@ A minimalistic Python static code analysis tool for clean and maintainable code.
    - Unreachable code after return in line 9.
    - Empty block at line 13.
    ```
+
+
+---
+
+## Requirements
+
+- Python 3.8+
+- Root privileges for certain features
